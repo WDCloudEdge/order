@@ -117,9 +117,9 @@ public class CustomerOrder {
         this.items = items;
     }
 
-    public void setItems(List<Item> items) {
-        this.items = items;
-    }
+//    public void setItems(List<Item> items) {
+//        this.items = items;
+//    }
 
     public Date getDate() {
         return date;
